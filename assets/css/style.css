@@ -12,6 +12,7 @@ body {
     font-family: Lato , sans-serif; 
     color: #24657d; 
 }
+
 /*header and navigation links*/ 
 
 h1 { 
@@ -110,8 +111,14 @@ h1 {
     padding-top: 15px; 
 }
 
-#read-review > a { 
+#read-review , a { 
     color:#24657d; 
+    text-decoration: none;
+    font-weight: bold; 
+}
+
+#read-review , a:hover { 
+    background-color: white;
 }
 
 h4 { 
@@ -120,8 +127,12 @@ h4 {
 }
 /* footer */
 
-.social-links { 
-    height: 15vh; 
+
+#external-links { 
+    color: black; 
     background-color: #24657d;
 }
+
+
+
 
