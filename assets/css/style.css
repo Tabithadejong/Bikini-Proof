@@ -45,14 +45,21 @@ h1 {
 }
 /*content home page */ 
 
-#content1 { 
+.content1 { 
     height: 30vh;
     background-color: aqua;
 }
 
-#content2 { 
+.content2 { 
     height: 60vh; 
     background-color: bisque;
+    display: flex;
+}
+
+#idcontent2_photo {
+    position: relative; 
+    width: 30%; 
+    height: 60vh;
 }
 
 /* footer */
