@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Playfair+Display:ital,wght@1,500&display=swap');
+
+* { 
+    margin:0 ; 
+    padding: 0; 
+    border: none; 
+    
+}
+body { 
+    min-height: 100vh;
+}
+
+#content1 { 
+    height: 30vh;
+    background-color: aqua;
+}
+
+#content2 { 
+    height: 60vh; 
+    background-color: bisque;
+}
+
+.social-links { 
+    height: 15vh; 
+    background-color: aquamarine;
+}
+
