@@ -15,8 +15,12 @@ body {
 }
 /*header and navigation links*/ 
 
-#main-menu { 
+h1 { 
     font-family: Playfair Display, sans-serif;
+}
+
+#main-menu { 
+    height:21px;
 }
 
 #main-menu li { 
@@ -24,6 +28,20 @@ body {
     float: right; 
     padding-right: 15px; 
     font-family: Lato, sans-serif;
+}
+
+#main-menu a:link { 
+    text-decoration: none;
+    color:black
+    
+}
+
+#main-menu a:active { 
+    text-transform: uppercase;
+}
+
+#main-menu a:hover { 
+    text-decoration: underline;
 }
 /*content home page */ 
 
