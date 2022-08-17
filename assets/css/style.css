@@ -47,12 +47,12 @@ h1 {
 
 .content1 { 
     height: 30vh;
-    background-color: aqua;
+    background-color: #9bc2bc;
 }
 
 .content2 { 
     height: 60vh; 
-    background-color: bisque;
+    background-color: #9bc2bc;
     display: flex;
 }
 
@@ -66,6 +66,6 @@ h1 {
 
 .social-links { 
     height: 15vh; 
-    background-color: aquamarine;
+    background-color: #7b96b7;
 }
 
