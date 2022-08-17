@@ -48,6 +48,27 @@ h1 {
 .content1 { 
     height: 30vh;
     background-color: #9bc2bc;
+    text-align: center;
+    padding-top:30px;
+    
+}
+
+#title { 
+    padding-bottom: 9px; 
+}
+
+.call_to_action { 
+    padding-top: 15px; 
+    text-transform: uppercase;
+    text-shadow:2px 2px 8px #172c46 ;
+}
+
+.call_to_action a:link { 
+    text-decoration: none;
+}
+
+.call_to_action a:hover { 
+    text-decoration: underline;
 }
 
 .content2 { 
