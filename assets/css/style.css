@@ -10,10 +10,21 @@
 body { 
     min-height: 100vh;
     font-family: Lato , sans-serif; 
-    font-weight: 700px;
+    font-weight: 500px;
 
 }
+/*header and navigation links*/ 
 
+#main-menu { 
+    font-family: Playfair Display, sans-serif;
+}
+
+#main-menu li { 
+    list-style: none;
+    float: right; 
+    padding-right: 15px; 
+    font-family: Lato, sans-serif;
+}
 /*content home page */ 
 
 #content1 { 
