@@ -129,8 +129,20 @@ h4 {
 
 
 #external-links { 
-    color: black; 
+    color: white; 
     background-color: #24657d;
+    text-align: left;
+    padding-left: 15px; 
+    list-style-type: none;
+
+}
+
+#external-links a {
+    color:white; 
+}
+
+#external-links a:hover { 
+    background-color: black;
 }
 
 
