@@ -15,6 +15,7 @@ body {
 
 h1 { 
     font-family: Playfair Display, sans-serif;
+    color: #24657d; 
 }
 
 #main-menu { 
@@ -49,6 +50,7 @@ h1 {
     text-align: center;
     padding-top:30px;
     
+    
 }
 
 #title { 
@@ -80,8 +82,10 @@ h1 {
 }
 
 #content2_photo {
-    position: relative;
-    height: inherit;
+   width: fit-content;
+   height: 420px; 
+   padding-right: 12px; 
+
 }
 
 #sarah { 
@@ -104,6 +108,6 @@ h4 {
 
 .social-links { 
     height: 15vh; 
-    background-color: #7b96b7;
+    background-color: #24657d;
 }
 
