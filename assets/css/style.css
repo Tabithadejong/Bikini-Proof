@@ -10,12 +10,15 @@
 body { 
     min-height: 100vh;
     font-family: Lato , sans-serif; 
+    color: #24657d; 
 }
 /*header and navigation links*/ 
 
 h1 { 
     font-family: Playfair Display, sans-serif;
     color: #24657d; 
+    margin-left: 3px;
+   
 }
 
 #main-menu { 
@@ -23,25 +26,25 @@ h1 {
 }
 
 #main-menu li { 
-    list-style: none;
+    list-style-type: none;
     float: right; 
     padding-right: 15px; 
     font-family: Lato, sans-serif;
 }
 
-#main-menu a:link { 
+#main-menu a { 
+    color:#24657d; 
+    font-weight: bold;
     text-decoration: none;
-    color:black
-    
-}
 
-#main-menu a:active { 
-    text-transform: uppercase;
+
 }
 
 #main-menu a:hover { 
-    text-decoration: underline;
+    background-color: black; 
 }
+
+
 /*content home page */ 
 
 .content1 { 
@@ -58,17 +61,24 @@ h1 {
 }
 
 .call_to_action { 
+    color:#24657d;
     padding-top: 15px; 
     text-transform: uppercase;
-    text-shadow:2px 2px 8px #172c46 ;
+    font-weight: bold;
+    text-shadow:6px 6px 12px #172c46 ;
+}
+
+.call_to_action a { 
+    color:#24657d; 
 }
 
 .call_to_action a:link { 
     text-decoration: none;
+    color:#24657d; 
 }
 
 .call_to_action a:hover { 
-    text-decoration: underline;
+   background-color: white;
 }
 
 /* content2 */ 
@@ -83,7 +93,7 @@ h1 {
 
 #content2_photo {
    width: fit-content;
-   height: 420px; 
+   height: 210px; 
    padding-right: 12px; 
 
 }
@@ -98,6 +108,10 @@ h1 {
 #read_review { 
     text-align: center;
     padding-top: 15px; 
+}
+
+#read-review > a { 
+    color:#24657d; 
 }
 
 h4 { 
