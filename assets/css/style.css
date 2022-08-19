@@ -53,6 +53,7 @@ h1 {
     background-color: #9bc2bc;
     text-align: center;
     padding-top:30px;
+    letter-spacing: 1px;
     
     
 }
@@ -132,7 +133,12 @@ footer {
     position: fixed; 
     bottom: 0; 
     width: 100%; 
+    background-color: #24657d;
     
+}
+
+footer ul li { 
+    display: inline;
 }
 #external-links { 
     color: white; 
@@ -140,7 +146,7 @@ footer {
     text-align: left;
     padding-left: 15px; 
     list-style-type: none;
-
+    text-align: center;
 }
 
 #external-links a {
@@ -149,6 +155,12 @@ footer {
 
 #external-links a:hover { 
     background-color: black;
+}
+
+.footer-text { 
+    color:white; 
+    text-align: center;
+    font-size: 12px; 
 }
 
 .fix_footer { 
@@ -170,7 +182,6 @@ footer {
     opacity: 0.5;
     
 }
-
 #cover_plan { 
     position: absolute; 
     top: 36px;
@@ -182,27 +193,11 @@ footer {
     font-weight: bold;
     font-style: italic;
 }
-
-
-#plan1 { 
-    background-color: #9bc2bc;
-}
-
-#plan2 { 
-    background-color: #9bc2bc ;
-}
-
-#plan3 { 
-    background-color:  #9bc2bc;
-}
-#plan4 { 
-    background-color:  #9bc2bc;
-}
-
 .plan-type { 
     text-align: center; 
     background-color: #9bc2bc;
     padding: 21px; 
+    letter-spacing: 1px;
     
 }
 
