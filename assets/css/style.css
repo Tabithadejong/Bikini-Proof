@@ -67,6 +67,7 @@ h1 {
     text-transform: uppercase;
     font-weight: bold;
     text-shadow:6px 6px 12px #172c46 ;
+    text-align: center;
 }
 
 .call_to_action a { 
@@ -191,8 +192,28 @@ footer {
     background-color:  #9bc2bc;
 }
 
+.plan-type { 
+    text-align: center; 
+    background-color: #9bc2bc;
+    padding: 21px; 
+    
+}
+
+fieldset {
+    background-color: #eeeeee;
+  }
+  
+legend {
+    background-color: #9bc2bc;
+    color: #24657d;
+    padding: 0px 12px 21px 12px;
+    border-style: outset;
+  }
+
 
 /* review page */ 
+
+
 
 #marie { 
     background-color: blue;
