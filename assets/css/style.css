@@ -145,6 +145,27 @@ h4 {
     background-color: black;
 }
 
+/* our services page */ 
+
+#plan-overview { 
+    background: bisque;
+}
+
+#plan1 { 
+    background-color: aqua;
+
+}
+#plan2 { 
+    background-color: beige;
+}
+
+#plan3 { 
+    background-color: lightcoral;
+}
+
+#plan4 { 
+    background-color: azure;
+}
 
 
 
