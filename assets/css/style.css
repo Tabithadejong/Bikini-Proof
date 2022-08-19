@@ -165,7 +165,7 @@ footer ul li {
 
 .fix_footer { 
     background-color: #9bc2bc;
-    height:60px; 
+    height:90px; 
     
 }
 
@@ -215,8 +215,24 @@ legend {
 
 /* review page */ 
 
-
-
-#marie { 
-    background-color: blue;
+#review-cover { 
+    background-color: #24657d;
+    text-align: center;
+    color: white;
+    font-family: 'Playfair Display', sans-serif;
 }
+
+
+
+.review-photo { 
+    background-color: #9bc2bc;
+    height: 270px;
+    padding: 21px;
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+
+
