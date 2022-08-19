@@ -108,21 +108,6 @@ h1 {
     padding-right: 15px; 
 }
 
-#read_review { 
-    text-align: center;
-    padding-top: 15px; 
-}
-
-#read-review , a { 
-    color:#24657d; 
-    text-decoration: none;
-    font-weight: bold; 
-}
-
-#read-review , a:hover { 
-    background-color: white;
-}
-
 h4 { 
     font-weight: bold;
     text-align: center;
