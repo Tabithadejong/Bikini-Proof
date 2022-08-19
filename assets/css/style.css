@@ -46,7 +46,7 @@ h1 {
 }
 
 
-/*content home page */ 
+/*content 1 home page */ 
 
 .content1 { 
     height: 30vh;
@@ -83,7 +83,7 @@ h1 {
    background-color: white;
 }
 
-/* content2 */ 
+/* content2 home page */ 
 
 .content2 { 
     height: 60vh; 
@@ -132,6 +132,7 @@ footer {
     position: fixed; 
     bottom: 0; 
     width: 100%; 
+    
 }
 #external-links { 
     color: white; 
@@ -148,6 +149,12 @@ footer {
 
 #external-links a:hover { 
     background-color: black;
+}
+
+.fix_footer { 
+    background-color: #9bc2bc;
+    height:60px; 
+    
 }
 
 /* our services page */ 
