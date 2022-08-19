@@ -127,7 +127,11 @@ h4 {
 }
 /* footer */
 
-
+footer { 
+    position: fixed; 
+    bottom: 0; 
+    width: 100%; 
+}
 #external-links { 
     color: white; 
     background-color: #24657d;
@@ -148,22 +152,43 @@ h4 {
 /* our services page */ 
 
 #plan-overview { 
-   
+   background-color: beige;
+   height: 30vh; 
+   position: relative;
+}
+#woman_beach { 
+    height: 30vh; 
+    width: 100%;
+    opacity: 0.5;
+    
 }
 
+#cover_plan { 
+    position: absolute; 
+    top: 36px;
+    left: 21px;
+    right: 21px; 
+    color: #24657d; 
+    text-align:center;
+    font-family: Playfair Display, sans-serif;
+    font-weight: bold;
+    font-style: italic;
+}
+
+
 #plan1 { 
-    background-color: aqua;
+    background-color: #9bc2bc;
 }
 
 #plan2 { 
-    background-color: aquamarine;
+    background-color: #9bc2bc ;
 }
 
 #plan3 { 
-    background-color: beige;
+    background-color:  #9bc2bc;
 }
 #plan4 { 
-    background-color: bisque;
+    background-color:  #9bc2bc;
 }
 
 
