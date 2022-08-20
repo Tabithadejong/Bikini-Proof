@@ -219,5 +219,13 @@ legend {
     justify-content: space-around;
 }
 
+/* intake form page */ 
+
+#intake_background { 
+    background-image: url("../images/scale.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
 
 
