@@ -231,9 +231,10 @@ legend {
 
 .sign_up { 
     padding: 12px;
-    margin: 69px 12px;
+    margin: 30px 21px 69px 21px;
     background-color: #5dffe687;
     color: #131b1e;
+    font-weight: bold;
 
 
 }
@@ -241,7 +242,7 @@ legend {
 .sign_up  p { 
     font-family: Playfair Display, sans-serif;
     text-align: center;
-    padding: 12px;
+    padding: 21px;
 }
 
 input { 
