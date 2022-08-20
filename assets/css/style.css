@@ -226,12 +226,35 @@ legend {
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
+    
 }
 
 .sign_up { 
-    padding: 12px; 
-    text-align: center;
-    background-color: #9bc2bc;
+    padding: 12px;
+    margin: 69px 12px;
+    background-color: #5dffe687;
+    color: #131b1e;
+
+
 }
+
+.sign_up  p { 
+    font-family: Playfair Display, sans-serif;
+    text-align: center;
+    padding: 12px;
+}
+
+input { 
+    width: 100%;
+    padding: 21px;
+    margin: 3px;
+    box-sizing: border-box;
+}
+
+input[type=radio] { 
+    display: block;
+    
+}
+
 
 
