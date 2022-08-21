@@ -87,7 +87,7 @@ h1 {
 /* content2 home page */ 
 
 .content2 { 
-    height: 60vh; 
+    height: 72vh; 
     background-color: #9bc2bc;
     display: flex;
     justify-content: space-between;
@@ -233,14 +233,14 @@ legend {
 .sign_up { 
     padding: 12px;
     margin: 30px 21px 69px 21px;
-    background-color: #5dffe687;
+    background-color: #01abeba8;
     color: #131b1e;
     font-weight: bold;
 
 
 }
 
-.sign_up  p { 
+.sign_up > p { 
     font-family: Playfair Display, sans-serif;
     text-align: center;
     padding: 21px;
@@ -253,10 +253,40 @@ input {
     box-sizing: border-box;
 }
 
-input[type=radio] { 
-    display: block;
-    
+
+textarea { 
+    width:100%; 
+    height:120px; 
 }
 
+form > p { 
+    text-align: center;
+    text-decoration: underline;
+    text-transform: uppercase;
+    padding: 12px;
+}
+
+.emphasize { 
+    color: red; 
+}
+
+/* media queries */ 
+
+@media screen and (min-width:767px) {
+
+   
+    #radio_input { 
+        display:flex; 
+
+    }
+
+    form > p { 
+        text-align: center;
+        text-decoration: underline;
+        text-transform: uppercase;
+        padding: 36px; 
+    }
+
+}
 
 

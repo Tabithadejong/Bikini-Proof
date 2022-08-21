@@ -23,20 +23,20 @@
     </header> 
     <section>
         <div class="sign_up">
-            <p> Schedule a <strong> free </strong> orientation call with one of our coaches!</p>
+            <p> Schedule a <span class="emphasize"> free </span> orientation call with one of our coaches!</p>
             <form>
                 <label for="fname"> First Name</label>
-                <input type="text" name="fname">
+                <input type="text" name="fname" required>
                 <label for="lname"> Last Name</label>
-                <input type="text" name="lname">
+                <input type="text" name="lname" required>
                 <label for="birthday">Birthday:</label>
-                <input type="date" name="birthday">
+                <input type="date" name="birthday" required>
                 <label for="email"> Email</label>
-                <input type="email" name="email"> 
+                <input type="email" name="email" required> 
                 <label for="phone"> Phone Number</label>
-                <input type="tel" name="pnumber"> <br>
+                <input type="tel" name="pnumber" required> <br>
 
-                <p><strong>What Do You Plan? </strong></p>
+                <p>What Do You Plan?</p>
 
                 <div id="radio_input">
                     <label for="slim"> Slim</label>
@@ -51,8 +51,8 @@
                     <input type="radio" name="package" value="I don't know yet">
                 </div>
 
-                <p> <strong>Tell us a little more about yourself...</strong></p>  
-                <textarea name="about" rows="6" cols="30"> </textarea>
+                <p>Tell us a little more about yourself...</p>  
+                <textarea name="about"> </textarea>
 
                 <input type="submit" value="Send">
             </form>
