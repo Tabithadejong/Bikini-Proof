@@ -222,7 +222,7 @@ legend {
 
 /* intake form page */ 
 
-#intake_background { 
+#body_intake { 
     background-image: url("../images/scale.jpg");
     background-repeat: no-repeat;
     background-size: cover;
@@ -276,18 +276,23 @@ form > p {
 
     /*home page */ 
 
+    .content2 { 
+        height: 72vh; 
+        background-color: #9bc2bc;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
     #content2_photo {
         height: 420px; 
-        padding-right: 36px; 
-     
      }
  
-     #sarah { 
+    #sarah { 
          width:33%;
          text-align: left;
          font-style: italic;
-         padding-left: 36px;
-         padding-right: 15px; 
+         padding-right: 21px; 
      }
      
 
@@ -310,32 +315,52 @@ form > p {
 
 @media screen and (min-width:991px) { 
 
+    /* home page */
+
+    .content2 { 
+        justify-content: space-between;
+    }
+
+    #content2_photo {
+        padding-right: 42px;
+     }
+ 
+     #sarah { 
+        padding-left:42px;
+     }
+    
+
     /*our services page*/ 
 
     #plan-overview { 
-        background-color: beige;
         height: 42vh; 
-        position: relative;
      }
+
      #woman_beach { 
          height: 42vh; 
-         width: 100%;
-         opacity: 0.5;
          
      }
      #cover_plan { 
-         position: absolute; 
-         top: 72px;
-         left: 21px;
-         right: 21px; 
-         color: #24657d; 
-         text-align:center;
-         font-family: Playfair Display, sans-serif;
-         font-weight: bold;
-         font-size:21px;
-         font-style: italic;
-     }
+        position: absolute; 
+        top: 72px;
+        left: 21px;
+        right: 21px; 
+        color: #24657d; 
+        text-align:center;
+        font-family: Playfair Display, sans-serif;
+        font-weight: bold;
+        font-size: 21px;
+        font-style: italic;
+    }
 
+    /* review page */ 
+    .review-photo { 
+        width:33%; 
+    }
+    #background_review { 
+        background-color: #9bc2bc;
+        background-image: url("../images/healthy-food.jpeg");
+    }
 
 }
 
