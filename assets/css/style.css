@@ -274,6 +274,8 @@ form > p {
 
 @media screen and (min-width:767px) {
 
+    /*free intake page */ 
+
    
     #radio_input { 
         display:flex; 
@@ -288,5 +290,37 @@ form > p {
     }
 
 }
+
+@media screen and (min-width:991px) { 
+
+    /*our services page*/ 
+
+    #plan-overview { 
+        background-color: beige;
+        height: 42vh; 
+        position: relative;
+     }
+     #woman_beach { 
+         height: 42vh; 
+         width: 100%;
+         opacity: 0.5;
+         
+     }
+     #cover_plan { 
+         position: absolute; 
+         top: 72px;
+         left: 21px;
+         right: 21px; 
+         color: #24657d; 
+         text-align:center;
+         font-family: Playfair Display, sans-serif;
+         font-weight: bold;
+         font-size:21px;
+         font-style: italic;
+     }
+
+
+}
+
 
 
