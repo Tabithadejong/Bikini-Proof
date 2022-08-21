@@ -108,7 +108,7 @@ h1 {
     padding-right: 15px; 
 }
 
-h4 { 
+#sarah h4 { 
     font-weight: bold;
     text-align: center;
 }
@@ -273,6 +273,23 @@ form > p {
 /* media queries */ 
 
 @media screen and (min-width:767px) {
+
+    /*home page */ 
+
+    #content2_photo {
+        height: 420px; 
+        padding-right: 36px; 
+     
+     }
+ 
+     #sarah { 
+         width:33%;
+         text-align: left;
+         font-style: italic;
+         padding-left: 36px;
+         padding-right: 15px; 
+     }
+     
 
     /*free intake page */ 
 
