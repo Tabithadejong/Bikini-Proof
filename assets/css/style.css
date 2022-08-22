@@ -277,7 +277,6 @@ legend {
     display: flex;
     justify-content: center;
     align-items: center;
-    overflow: none;
 }
 
 /* intake form page */ 
