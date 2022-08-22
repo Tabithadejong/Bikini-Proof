@@ -63,6 +63,7 @@ section {
     border-left: 3px solid green;
     border-right: 3px solid green;
 }
+
 #content1 { 
     height: 30vh;
     background-color: #9bc2bc;
@@ -110,8 +111,8 @@ section {
 }
 
 #content2_photo {
-   width: fit-content;
-   height: 210px; 
+   max-width: 150px;
+   max-height: 210px; 
    padding-right: 12px; 
 
 }
@@ -345,9 +346,23 @@ form > p {
 
 @media screen and (max-width:480px) { 
 
+    /* home page */ 
+
+    .content2 { 
+        height:102vh; 
+    }
+
+    /* our services */ 
+    #cover_plan { 
+        top:17px;
+    }
     /*review page */
     .review-text { 
         height:300px; 
+    }
+
+    #body_intake { 
+        width:80%; 
     }
 }
 
@@ -404,7 +419,7 @@ form > p {
         padding-right: 42px;
      }
  
-     #sarah { 
+    #sarah { 
         padding-left:42px;
      }
     
