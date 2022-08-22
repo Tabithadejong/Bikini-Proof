@@ -360,7 +360,12 @@ form > p {
     .review-text { 
         height:300px; 
     }
+    
+    /*intake page*/ 
 
+    #body_intake { 
+        width: 90%;
+    }
 
 }
 
