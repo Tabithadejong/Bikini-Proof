@@ -193,7 +193,8 @@ footer ul li {
 
 .fix_footer { 
     background-color: #9bc2bc;
-    height:120px; 
+    height:120px;
+    width:100%; 
     
 }
 
@@ -295,7 +296,7 @@ legend {
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    width:80;
+    width:80%;
     padding-top: 70px;
     
 }
@@ -348,7 +349,7 @@ form > p {
     /* home page */ 
 
     .content2 { 
-        height:93vh; 
+        height:500px; 
     }
 
     /* our services */ 
