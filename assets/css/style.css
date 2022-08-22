@@ -295,7 +295,7 @@ legend {
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    width:50%;
+    width:80;
     padding-top: 70px;
     
 }
@@ -361,11 +361,6 @@ form > p {
         height:300px; 
     }
 
-    /*intake page*/ 
-
-    #body_intake { 
-        width: 80%;
-    }
 
 }
 
@@ -452,6 +447,11 @@ form > p {
         padding: 21px 60px 21px 60px; 
     }
 
+    /*intake */
+
+    #body_intake { 
+        width:50%;
+    }
 
 }
 
