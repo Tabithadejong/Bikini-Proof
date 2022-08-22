@@ -348,21 +348,25 @@ form > p {
     /* home page */ 
 
     .content2 { 
-        height:102vh; 
+        height:93vh; 
     }
 
     /* our services */ 
     #cover_plan { 
         top:17px;
     }
+
     /*review page */
     .review-text { 
         height:300px; 
     }
 
+    /*intake page*/ 
+
     #body_intake { 
-        width:80%; 
+        width: 80%;
     }
+
 }
 
 @media screen and (min-width:767px) {
@@ -370,7 +374,7 @@ form > p {
     /*home page */ 
 
     .content2 { 
-        height: 72vh; 
+        height: 50vh; 
         background-color: #9bc2bc;
         display: flex;
         justify-content: center;
@@ -398,9 +402,6 @@ form > p {
     }
 
     form > p { 
-        text-align: center;
-        text-decoration: underline;
-        text-transform: uppercase;
         padding: 36px; 
     }
 
@@ -411,7 +412,8 @@ form > p {
     /* home page */
 
     .content2 { 
-        justify-content: center;
+        height: 36vh;
+
     }
 
     #content2_photo {
