@@ -24,7 +24,7 @@ Bikini Proof is a website for women that want to get into shape. As the title su
 
 The home page is considerably simple and consice. It exist out of a couple sections. 
 
--  First Section 
+*  First Section 
 This list of questions is meant to filter out our ideal customer. The women that want a solution to these recognizable problems are offered an immediate first step. They can click on START TODAY and will be directed to our sign-up form. 
 
 ![Picture of the first section of home page](documentation%20/call-to-action.png)
