@@ -11,7 +11,6 @@ body {
     min-height: 100vh;
     font-family: Lato , sans-serif; 
     color: #24657d; 
-    overflow: hidden;
 }
 
 /*header and navigation links*/ 
