@@ -33,10 +33,18 @@ This list of questions is meant to filter out our ideal customer. The women that
 
  **Second Section**
 
-Here visitors can find a review of one of our customers who happily changed her life around with Bikini Proof. 
+Here visitors can find a review of one of our existing customers who happily changed her life around with Bikini Proof. 
 A photo of her current physique is added and a button under the text will guide our visitors to a more elaborate review page 
 
 ![Picture of the second section home page](documentation%20/succes-stories.png)
+
+ **Third Section** 
+
+This is an embedded youtube video meant as a little funny teaser of what might be possible to accomplish with the help of Bikini Proof. The video will not autoplay, it is necesary to be activated by the visitor. We want it to be a clear decision whether or not to see this clip. 
+
+![Picture of the third section home page](documentation%20/catwalk.png)
+
+
 
 
 
