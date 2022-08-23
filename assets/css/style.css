@@ -68,7 +68,7 @@ section {
     height: 30vh;
     background-color: #9bc2bc;
     text-align: center;
-    padding-top:68px;
+    padding-top:81px;
     letter-spacing: 1px;
     
     
@@ -231,9 +231,6 @@ footer ul li {
     
 }
 
-fieldset {
-    background-color: #eeeeee;
-  }
   
 legend {
     background-color: #9bc2bc;
