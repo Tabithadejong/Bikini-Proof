@@ -141,15 +141,18 @@ section {
 
 #iframe_title { 
     text-align: center;
-    padding-bottom:21px; 
+    padding-bottom:12px; 
+    padding-top: 21px;
 }
 
 iframe { 
     position: absolute;
-    left: 0;
-    width: 100%;
+    left:25%; 
+    right:25%;
+    width: 50%;
     height: 100%;
     padding-bottom: 60px;
+    padding-top: 40px;
    
      
     
