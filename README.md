@@ -1,5 +1,7 @@
 # Bikini Proof 
 Bikini Proof is a website for women who want to get into shape. As the title suggests the parameter for this is to what extent they feel comfortable and confident in a bikini. As we know this is not the case for many women, we offer packages that exist out of fitness and diet coaching with the purpose of becoming bikini fit aka Bikini Proof.  
+
+The website is accessible from any mobile device, tablet and desktop. 
  
 ![Picture of the home page Bikini Proof](documentation%20/collage_bikiniproof.jpg)
  
@@ -66,6 +68,7 @@ Bikini Proof is a website for women who want to get into shape. As the title sug
 
 * In the near future we would like to create a buddy network. This way customers can connect with each other and motivate one another in difficult times. This would mean we need a secured online social platform where our customers can make a personalized account. When this platform is live it will be connected to this website through a login page. 
 
+
 ## Testing 
 
      This website and its code has been tested in a number of ways 
@@ -76,7 +79,7 @@ Bikini Proof is a website for women who want to get into shape. As the title sug
 
  ![Picture of the css report ](documentation%20/css_checker.png)
 
-3. Through Lighthouse extension. 
+3. Through the Lighthouse extension. 
 ![Picture of the lighthouse report ](documentation%20/lighthouse.png)
 
   * Performance 51
@@ -86,7 +89,18 @@ Bikini Proof is a website for women who want to get into shape. As the title sug
   * Best Practices 92
   * SEO 100 
 
-4. Peer review 
+4. Device Compatibility Test 
+
+* Google developer tools. 
+  * When built the website was frequently tested to maintain structured lay-out through all sizes of different devices. 
+  * When the website was live these tests were repeated. 
+* Viewing the website on different devices.  
+  * Devices and screen used are: Samsung A50, Ipad mini, Microsoft surface pro, Asus desktop, Iphone 11. 
+  * All content appeared properly. 
+
+
+
+
 
 
 
