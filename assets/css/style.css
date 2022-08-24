@@ -198,8 +198,10 @@ footer ul li {
 
 .fix_footer { 
     background-color: #9bc2bc;
-    height:120px;
+    height:153px;
     width:100%; 
+    border-left:3px solid green ;
+    border-right: 3px solid green; 
     
 }
 
