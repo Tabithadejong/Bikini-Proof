@@ -69,7 +69,7 @@ section {
     background-color: #9bc2bc;
     text-align: center;
     padding-top:81px;
-    letter-spacing: 1px;
+    line-height: 21px;
     
     
 }
@@ -376,9 +376,7 @@ form > p {
         align-items: center;
     }
 
-    #content2_photo {
-        height: 420px; 
-     }
+    
  
     #sarah { 
          width:33%;
