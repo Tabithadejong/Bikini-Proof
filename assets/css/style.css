@@ -76,6 +76,7 @@ section {
 
 #title { 
     padding-bottom: 9px; 
+    padding-top: 21px;
 }
 
 .call_to_action { 
@@ -103,7 +104,7 @@ section {
 /* content2 home page */ 
 
 .content2 { 
-    height: 72vh; 
+    height: 78vh; 
     background-color: #9bc2bc;
     display: flex;
     justify-content: center;
@@ -344,14 +345,16 @@ form > p {
 
 /* media queries */ 
 
-@media screen and (max-width:480px) { 
+@media screen and (min-width:380px) { 
 
     /* home page */ 
-
     .content2 { 
-        height:500px; 
+        height:54vh; 
     }
+}
+@media screen and (max-width:480px) { 
 
+  
     /* our services */ 
     #cover_plan { 
         top:17px;
