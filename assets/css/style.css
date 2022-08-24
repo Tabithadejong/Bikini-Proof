@@ -175,8 +175,6 @@ footer ul li {
 #external-links { 
     color: white; 
     background-color: #24657d;
-    text-align: left;
-    padding-left: 15px; 
     padding-bottom: 12px; 
     list-style-type: none;
     text-align: center;
@@ -194,6 +192,7 @@ footer ul li {
     color:white; 
     text-align: center;
     font-size: 12px; 
+    padding-top:12px; 
 }
 
 .fix_footer { 
