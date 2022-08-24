@@ -53,6 +53,13 @@ Bikini Proof is a website for women who want to get into shape. As the title sug
 
   ![Picture of the our services page](documentation%20/plans.png)
 
+* Free Intake 
+  * Here women can schedule a free intake. This exists out of a video call with one of our coaches. 
+  * Because is important to know that the first intake is free the word is emphasized with a red colour. 
+  * To get back in touch with the potential customer we need contact information. For this reason it is required to fill in the first five input fields. If let open the form can not be send. 
+
+  ![Picture of the free intake page ](documentation%20/intake.png)
+
 
 
 
