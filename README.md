@@ -62,9 +62,32 @@ Bikini Proof is a website for women who want to get into shape. As the title sug
   ![Picture of the free intake page ](documentation%20/intake.jpg)
 
 
-### Features for the future 
+### Future Features 
 
-* In the future we would like to create a buddy network. This way customers can connect with each other and motivate one another in difficult times. This would mean we need a secured online social platform where our customers can make a personalized account. When this platform is live it will be connected to this website through a login page. 
+* In the near future we would like to create a buddy network. This way customers can connect with each other and motivate one another in difficult times. This would mean we need a secured online social platform where our customers can make a personalized account. When this platform is live it will be connected to this website through a login page. 
+
+## Testing 
+
+     This website and its code has been tested in a number of ways 
+1. Through the HTML validator of W3C https://validator.w3.org/. The first time it gave a warning telling me there was a section that was not followed up with a heading(H1-H6) and that a div would also be sufficient if a heading is not necessary. I removed the section wrapper from the div and ran the code again. This time the code passed completely. 
+ ![Picture of the html report ](documentation%20/html_checker.png)
+
+2. Through the CSS validator of W3C https://jigsaw.w3.org/css-validator/. The code got a green light straight away. 
+
+ ![Picture of the css report ](documentation%20/css_checker.png)
+
+3. Through Lighthouse extension. 
+![Picture of the lighthouse report ](documentation%20/lighthouse.png)
+
+  * Performance 51
+    * This low score was mainly due to the loading time of the Javascripts and the embedded youtube video 
+  * Accessibility 86 
+    * The point reduction is based on some of the contrast between foreground and background, the order of the use of heading elements and the footer links have no names.
+  * Best Practices 92
+  * SEO 100 
+
+4. Peer review 
+
 
 
 
