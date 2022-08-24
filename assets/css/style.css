@@ -177,6 +177,7 @@ footer ul li {
     background-color: #24657d;
     text-align: left;
     padding-left: 15px; 
+    padding-bottom: 12px; 
     list-style-type: none;
     text-align: center;
 }
