@@ -46,8 +46,9 @@ This is an embedded youtube video meant as a little funny teaser of what might b
 
 * The Footer 
 
-Just as the navigation bar the footer element is stuck to the bottom of the page at all times. The design is minimal but includes all that need to be brought across to the visitor. All the links open in an external tab. 
+Just as the navigation bar the footer element is stuck to the bottom of the page at all times. The design is minimal but includes all that what need to be brought across to the visitor. These are the links to social media platforms allowing customers to connect with us through these mediums. All the links open in an external tab. 
 
+![Picture of the footer](documentation%20/footer.png)
 
 
 
