@@ -56,9 +56,16 @@ Bikini Proof is a website for women who want to get into shape. As the title sug
 * Free Intake 
   * Here women can schedule a free intake. This exists out of a video call with one of our coaches. 
   * Because is important to know that the first intake is free the word is emphasized with a red colour. 
+  * The form asks for name, telephone number, emailadress, birthday, what plan they are interested in and a text area where they can write additional information about themselves. 
   * To get back in touch with the potential customer we need contact information. For this reason it is required to fill in the first five input fields. If let open the form can not be send. 
 
-  ![Picture of the free intake page ](documentation%20/intake.png)
+  ![Picture of the free intake page ](documentation%20/intake.jpg)
+
+
+### Features for the future 
+
+* In the future we would like to create a buddy network. This way customers can connect with each other and motivate one another in difficult times. This would mean we need a secured online social platform where our customers can make a personalized account. When this platform is live it will be connected to this website through a login page. 
+
 
 
 
