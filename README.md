@@ -13,11 +13,11 @@ Bikini Proof is a website for women who want to get into shape. As the title sug
 
 * Navigation Bar
 
-    The navigation bar is meant to give visitors easy direction through the different sections of the website.
+    * The navigation bar is meant to give visitors easy direction through the different sections of the website.
     The logo is stuck to the left high end of the bar and the sections to the low end of the right side.
 
-    It is made sure that the navigation bar sticks to the top of the page at all times. 
-    This will help our visitors even better in navigating through our pages, as they can always redirect where to go. 
+    * It is made sure that the navigation bar sticks to the top of the page at all times. 
+      This will help our visitors even better in navigating through our pages, as they can always redirect where to go. 
 
 ![picture of the navigation bar](documentation%20/navigation_bar.png)
 
@@ -42,7 +42,7 @@ Bikini Proof is a website for women who want to get into shape. As the title sug
 
    This is an embedded youtube video meant as a little funny teaser of what might be possible to accomplish with the help of Bikini Proof. The video will not autoplay, it is necesary to be activated by the visitor. We want it to be a clear decision on the userend whether or not to see this clip. 
 
-   
+
 
 ![Picture of the third section home page](documentation%20/catwalk.png)
 
