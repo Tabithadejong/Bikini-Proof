@@ -130,9 +130,9 @@ The website is accessible from any mobile device, tablet and desktop.
 ### Code
  
 * [W3School](https://www.w3schools.com/)
- * This site was a great help for the overall creation of the pages. Whenever I forgot some of the functions of elements or their properties I would rely on W3C.
+  * This site was a great help for the overall creation of the pages. Whenever I forgot some of the functions of elements or their properties I would rely on W3C.
 * [LMS from Code Institute](https://learn.codeinstitute.net/)
- * Besides learning all my current knowledge through Code Institute, it also has been a good reference point throughout building this website.
+  * Besides learning all my current knowledge through Code Institute, it also has been a good reference point throughout building this website.
 * [Love Running Project by Code Institue](https://codeinstitute.net/wp-content/uploads/2017/03/LoveRunning-1.pdf)
   * This example project from Code Institute was a great
 * Youtube.
