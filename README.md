@@ -59,7 +59,7 @@ The website is accessible from any mobile device, tablet and desktop.
   * Here women can schedule a free intake. This exists out of a video call with one of our coaches. 
   * Because is important to know that the first intake is free the word is emphasized with a red colour. 
   * The form asks for name, telephone number, emailadress, birthday, what plan they are interested in and a text area where they can write additional information about themselves. 
-  * To get back in touch with the potential customer we need contact information. For this reason it is required to fill in the first five input fields. If let open the form can not be send. 
+  * To get back in touch with the potential customer we need contact information. For this reason it is required to fill in the first five input fields if not the form can not be submitted. 
 
   ![Picture of the free intake page ](documentation%20/intake.jpg)
 
@@ -97,6 +97,60 @@ The website is accessible from any mobile device, tablet and desktop.
 * Viewing the website on different devices.  
   * Devices and screen used are: Samsung A50, Ipad mini, Microsoft surface pro, Asus desktop, Iphone 11. 
   * All content appeared properly. 
+
+### Bugs History
+* Some content on the site was overflowing on mobile devices in early test runs. The media queries were rewritten and this soluted the problem.
+
+
+### Unfixed bugs 
+* There are no main bugs left unfixed. However ideally a site needs to score higher on the lighthouse performance check. Taking out the Javascript or Youtube content is not an option at this moment which is causing this relative low score. 
+
+## Deployment 
+* This website was deployed through Github pages. The following steps were taken: 
+ * Browse to settings in the specific resipritory. 
+ * From the source section drop-down menu, select the Main branche, and then create page.
+ * The link to the page is created then on the account and accesible from all devices 
+ * This it the link : https://tabithadejong.github.io/Bikini-Proof/
+
+## Credits 
+
+
+### Content
+* The font for the whole site comes from [Google Fonts](https://fonts.google.com/)
+* The icons in the footer come from[Font Awasome](https://fontawesome.com/)
+* All written content is purely fictional and is written by me.
+ 
+ 
+ 
+### Media
+* All images are free stock images taken from [Pexels](https://www.pexels.com/nl-nl/)  
+* The video on the homepage comes from [youtube](https://www.youtube.com/watch?v=gZS6KP48kQc&t=2s&ab_channel=SHIFT)
+ 
+ 
+### Code
+ 
+* [W3School](https://www.w3schools.com/)
+ * This site was a great help for the overall creation of the pages. Whenever I forgot some of the functions of elements or their properties I would rely on W3C.
+* [LMS from Code Institute](https://learn.codeinstitute.net/)
+ * Besides learning all my current knowledge through Code Institute, it also has been a good reference point throughout building this website.
+* [Love Running Project by Code Institue](https://codeinstitute.net/wp-content/uploads/2017/03/LoveRunning-1.pdf)
+  * This example project from Code Institute was a great
+* Youtube.
+  * This [Iframe tutorial](https://www.youtube.com/watch?v=9YffrCViTVk&t=2s&ab_channel=tipswithpunch) helped me on how to make my Iframe responsive.
+* Mentor assigned by Code Institute
+  * For the intake page my mentor assisted me in what coding to use to centralize the form on the page.
+* [Google](https://google.com/)
+  * This site has been a great resource for me whenever I would have questions or problems implementing my code.
+
+
+  
+
+
+
+
+
+
+
 
 
 
