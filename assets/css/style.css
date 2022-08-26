@@ -13,6 +13,11 @@ body {
     color: #24657d; 
 }
 
+section { 
+    border-left: 3px solid green;
+    border-right: 3px solid green;
+}
+
 /*header and navigation links*/ 
 
 .page_top { 
@@ -59,18 +64,12 @@ h1 {
 
 /*content 1 home page */ 
 
-section { 
-    border-left: 3px solid green;
-    border-right: 3px solid green;
-}
-
 #content1 { 
     height: 30vh;
     background-color: #9bc2bc;
     text-align: center;
     padding-top:81px;
     line-height: 21px;
-    
     
 }
 
@@ -104,25 +103,30 @@ section {
 /* content2 home page */ 
 
 .content2 { 
-    height: 78vh; 
+    height: 70vh; 
     background-color: #9bc2bc;
     display: flex;
+    flex-direction: column-reverse;
     justify-content: center;
     align-items: center;
+    padding-top: 21px; 
 }
 
 #content2_photo {
-   max-width: 150px;
-   max-height: 210px; 
-   padding-right: 12px; 
+   max-width: 500px;
+   max-height: 300px; 
+   border-radius: 50%;
+   
 
 }
 
 #sarah { 
-    text-align: left;
+    text-align: center;
     font-style: italic;
     padding-left: 15px;
     padding-right: 15px; 
+    width:50%; 
+    padding-top: 21px; 
 }
 
 #sarah h4 { 
@@ -198,7 +202,6 @@ footer ul li {
 .fix_footer { 
     background-color: #9bc2bc;
     height:153px;
-    width:100%; 
     border-left:3px solid green ;
     border-right: 3px solid green; 
     
@@ -347,14 +350,19 @@ form > p {
     color: red; 
 }
 
+#birthday { 
+    width: 100%; 
+}
+
 /* media queries */ 
 
 @media screen and (min-width:380px) { 
 
     /* home page */ 
+    /*
     .content2 { 
         height:54vh; 
-    }
+    }*/
 }
 @media screen and (max-width:480px) { 
 
@@ -380,7 +388,7 @@ form > p {
 @media screen and (min-width:767px) {
 
     /*home page */ 
-
+    /*
     .content2 { 
         height: 50vh; 
         background-color: #9bc2bc;
@@ -397,7 +405,8 @@ form > p {
          font-style: italic;
          padding-right: 21px; 
      }
-     
+        */
+
 
     /*free intake page */ 
 
@@ -416,6 +425,7 @@ form > p {
 @media screen and (min-width:991px) { 
 
     /* home page */
+    /*
 
     .content2 { 
         height: 36vh;
@@ -429,7 +439,7 @@ form > p {
     #sarah { 
         padding-left:42px;
      }
-    
+    */
 
     /*our services page*/ 
 
