@@ -69,6 +69,7 @@ h1 {
     background-color: #9bc2bc;
     text-align: center;
     padding-top:81px;
+    padding-bottom:36px; 
     line-height: 21px;
     
 }
@@ -102,31 +103,46 @@ h1 {
 
 /* content2 home page */ 
 
-.content2 { 
-    height: 70vh; 
+.content2a { 
+    height: 297px; 
     background-color: #9bc2bc;
     display: flex;
-    flex-direction: column-reverse;
     justify-content: center;
     align-items: center;
     padding-top: 21px; 
-}
+    position: relative;
+} 
+
+.content2b { 
+    height: 210px; 
+    background-color: #9bc2bc;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 21px; 
+    position: relative;
+} 
 
 #content2_photo {
-   max-width: 500px;
-   max-height: 300px; 
+   width:100%;
+   height:auto; 
+   max-width: 400px;
    border-radius: 50%;
+   position:absolute;
+   justify-content: center;
+   align-items: center;
+   top:10%;
    
-
 }
 
 #sarah { 
     text-align: center;
     font-style: italic;
-    padding-left: 15px;
-    padding-right: 15px; 
-    width:50%; 
+    width:80%; 
     padding-top: 21px; 
+    padding-bottom: 21px;
+    position: absolute;
+    top:0; 
 }
 
 #sarah h4 { 
@@ -356,17 +372,14 @@ form > p {
 
 /* media queries */ 
 
-@media screen and (min-width:380px) { 
-
-    /* home page */ 
-    /*
-    .content2 { 
-        height:54vh; 
-    }*/
+@media screen and (max-width:700px) { 
+    .content2b { 
+        height: 300px; 
+    }
 }
-@media screen and (max-width:480px) { 
 
-    /*home page */
+@media screen and (max-width:480px) { 
+   
 
     iframe { 
         width:80%; 
@@ -388,25 +401,9 @@ form > p {
 @media screen and (min-width:767px) {
 
     /*home page */ 
-    /*
-    .content2 { 
-        height: 50vh; 
-        background-color: #9bc2bc;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-    }
-
-    
- 
-    #sarah { 
-         width:33%;
-         text-align: left;
-         font-style: italic;
-         padding-right: 21px; 
-     }
-        */
-
+   #sarha {
+    width: 50%;
+   }
 
     /*free intake page */ 
 
@@ -424,23 +421,11 @@ form > p {
 
 @media screen and (min-width:991px) { 
 
-    /* home page */
-    /*
+    /*home page*/
 
-    .content2 { 
-        height: 36vh;
-
-    }
-
-    #content2_photo {
-        padding-right: 42px;
-     }
- 
     #sarah { 
-        padding-left:42px;
-     }
-    */
-
+        width: 50%;
+    }
     /*our services page*/ 
 
     #plan-overview { 
