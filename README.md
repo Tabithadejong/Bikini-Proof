@@ -29,7 +29,7 @@ The website is accessible from any mobile device, tablet and desktop.
   * Review of Sarah
     * Here visitors can find a review from one of our existing customers who happily changed her life around with Bikini Proof. A photo of her current physique is added and a button under the text will guide our visitors to a more elaborate review page. 
 
-    ![Picture of the second section home page](documentation%20/succes-stories.png)
+    ![Picture of the second section home page](documentation%20/review.png)
 
   * Promo Video 
     *   This is an embedded youtube video meant as a little funny teaser of what might be possible to accomplish with the help of Bikini Proof. The video will not autoplay, it is necessary to be activated by the visitor. We want it to be a clear decision on the userend whether or not to see this clip.
@@ -45,7 +45,7 @@ The website is accessible from any mobile device, tablet and desktop.
   * After reading Sarah's story on our home page visitors can choose to read more success stories. This page is filled with a couple reviews from existing customers who had a great experience with the services of Bikini Proof. Their picture is added to their review. 
   * For potential customers these reviews are essential in building trust with Bikini Proof's services, because it is showing a proven track record. 
 
-    ![Picture of the review page](documentation%20/review.png)
+    ![Picture of the review page](documentation%20/review_page.png)
 
 * Our Services 
   * The top of the page starts out with an explanation of the content of the page. This leaves no room for interpretation and will add to the clarity of the website. Also the woman lying on the beach is reference to the goal of our services.
@@ -72,10 +72,10 @@ The website is accessible from any mobile device, tablet and desktop.
 ## Testing 
 
      This website and its code has been tested in a number of ways 
-1. Through the HTML validator of W3C https://validator.w3.org/. The first time it gave a warning telling me there was a section that was not followed up with a heading(H1-H6) and that a div would also be sufficient if a heading is not necessary. I removed the section wrapper from the div and ran the code again. This time the code passed completely. 
+1. Through [the HTML validator of W3C](https://validator.w3.org/). The first time it gave a warning telling me there was a section that was not followed up with a heading(H1-H6) and that a div would also be sufficient if a heading is not necessary. I removed the section wrapper from the div and ran the code again. This time the code passed completely. 
  ![Picture of the html report ](documentation%20/html_checker.png)
 
-2. Through the CSS validator of W3C https://jigsaw.w3.org/css-validator/. The code got a green light straight away. 
+2. Through [the CSS validator of W3C](https://jigsaw.w3.org/css-validator/). The code got a green light straight away. 
 
  ![Picture of the css report ](documentation%20/css_checker.png)
 
