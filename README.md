@@ -135,12 +135,20 @@ The website is accessible from any mobile device, tablet and desktop.
   * Besides learning all my current knowledge through Code Institute, it also has been a good reference point throughout building this website.
 * [Love Running Project by Code Institue](https://codeinstitute.net/wp-content/uploads/2017/03/LoveRunning-1.pdf)
   * This example project from Code Institute was a great
-* Youtube.
+* [Youtube](https://youtube.com)
   * This [Iframe tutorial](https://www.youtube.com/watch?v=9YffrCViTVk&t=2s&ab_channel=tipswithpunch) helped me on how to make my Iframe responsive.
-* Mentor assigned by Code Institute
-  * For the intake page my mentor assisted me in what coding to use to centralize the form on the page.
 * [Google](https://google.com/)
   * This site has been a great resource for me whenever I would have questions or problems implementing my code.
+* Mentor assigned by Code Institute
+  * For the intake page my mentor assisted me in what coding to use to centralize the form on the page.
+
+### Review 
+
+* My Mentor that was assigned to me by Code Institute has given me feedback throughout building the website 
+* My co-students have reviewed the live site and tested accessibility on their devices. 
+* Friends and family have reviewed the live site on their personal devices.
+
+
 
 
   
