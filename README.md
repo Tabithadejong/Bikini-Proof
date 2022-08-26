@@ -29,7 +29,7 @@ The website is accessible from any mobile device, tablet and desktop.
   * Review of Sarah
     * Here visitors can find a review from one of our existing customers who happily changed her life around with Bikini Proof. A photo of her current physique is added and a button under the text will guide our visitors to a more elaborate review page. 
 
-    ![Picture of the second section home page](documentation%20/review.png)
+    ![Picture of the second section home page](documentation%20/sarah.png)
 
   * Promo Video 
     *   This is an embedded youtube video meant as a little funny teaser of what might be possible to accomplish with the help of Bikini Proof. The video will not autoplay, it is necessary to be activated by the visitor. We want it to be a clear decision on the userend whether or not to see this clip.
