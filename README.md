@@ -137,7 +137,7 @@ The website is accessible from any mobile device, tablet and desktop.
 
 ### Review 
 
-* My Mentor that was assigned to me by Code Institute has given me feedback throughout building the website 
+* My Mentor who was assigned to me by Code Institute has given me feedback throughout building the website 
 * My co-students have reviewed the live site and tested accessibility on their devices. 
 * Friends and family have reviewed the live site on their personal devices.
 
