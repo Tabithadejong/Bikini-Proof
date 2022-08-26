@@ -358,7 +358,13 @@ form > p {
 }
 @media screen and (max-width:480px) { 
 
-  
+    /*home page */
+
+    iframe { 
+        width:80%; 
+        left:10%; 
+        right:10%;
+    }
     /* our services */ 
     #cover_plan { 
         top:17px;
