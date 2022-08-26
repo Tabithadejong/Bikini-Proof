@@ -82,13 +82,6 @@ The website is accessible from any mobile device, tablet and desktop.
 3. Through the Lighthouse extension. 
 ![Picture of the lighthouse report ](documentation%20/lighthouse.png)
 
-  * Performance 51
-    * This low score was mainly due to the loading time of the Javascripts and the embedded youtube video 
-  * Accessibility 86 
-    * The point reduction is based on some of the contrast between foreground and background, the order of the use of heading elements and the footer links have no names.
-  * Best Practices 92
-  * SEO 100 
-
 4. Device Compatibility Test 
 
 * Google developer tools. 
@@ -107,10 +100,10 @@ The website is accessible from any mobile device, tablet and desktop.
 
 ## Deployment 
 * This website was deployed through Github pages. The following steps were taken: 
- * Browse to settings in the specific resipritory. 
- * From the source section drop-down menu, select the Main branche, and then create page.
- * The link to the page is created then on the account and accesible from all devices 
- * This it the link : https://tabithadejong.github.io/Bikini-Proof/
+  * Browse to settings in the specific resipritory. 
+  * From the source section drop-down menu, select the Main branche, and then create page.
+  * The link to the page is created then on the account and accesible from all devices 
+  * This it the link : https://tabithadejong.github.io/Bikini-Proof/
 
 ## Credits 
 
