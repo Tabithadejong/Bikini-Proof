@@ -20,7 +20,7 @@ The website is accessible from any mobile device, tablet and desktop.
 ![picture of the navigation bar](documentation%20/navigation_bar.png)
 
 * The Home Page
- The home page is considerably simple and concise. It exists out of a couple sections.
+ The home page is simple and concise. It exists out of a couple sections.
   * Advertisment text. 
     * This list of questions is meant to filter out our ideal customer. The women that want a solution to these recognizable problems are offered an immediate first step. They can click on START TODAY and will be directed to our sign-up form.
 
@@ -99,7 +99,7 @@ The website is accessible from any mobile device, tablet and desktop.
   * All content appeared properly. 
 
 ### Bugs History
-* Some content on the site was overflowing on mobile devices in early test runs. The media queries were rewritten and this soluted the problem.
+* Some content on the site was overflowing on mobile devices in early test runs. The media queries were rewritten and this solved the problem.
 
 
 ### Unfixed bugs 
