@@ -19,8 +19,7 @@ The website is accessible from any mobile device, tablet and desktop.
    
 ![picture of the navigation bar](documentation%20/navigation_bar.png)
 
-* The Home Page
- The home page is simple and concise. It exists out of a couple sections.
+* The Home Page is simple and concise. It exists out of a couple sections.
   * Advertisment text. 
     * This list of questions is meant to filter out our ideal customer. The women that want a solution to these recognizable problems are offered an immediate first step. They can click on START TODAY and will be directed to our sign-up form.
 
@@ -48,7 +47,7 @@ The website is accessible from any mobile device, tablet and desktop.
     ![Picture of the review page](documentation%20/review_page.png)
 
 * Our Services 
-  * The top of the page starts out with an explanation of the content of the page. This leaves no room for interpretation and will add to the clarity of the website. Also the woman lying on the beach is reference to the goal of our services.
+  * The top of the page starts out with an explanation of the content of the page. This leaves no room for interpretation and will add to the clarity of the website. Also the woman lying on the beach is a reference to the goal of our services.
   * Then our offered services are displayed underneath eachother. 
   * There is a plan catering for all different needs women might have
   * Under each plan there is a link which, when clicked upon, will direct to the sign up page where one can register for a free intake. 
@@ -96,7 +95,7 @@ The website is accessible from any mobile device, tablet and desktop.
 
 
 ### Unfixed bugs 
-* There are no main bugs left unfixed. However ideally a site needs to score higher on the lighthouse performance check. Taking out the Javascript or Youtube content is not an option at this moment which is causing this relative low score. 
+* There are no bugs left unfixed. 
 
 ## Deployment 
 * This website was deployed through Github pages. The following steps were taken: 
@@ -136,6 +135,8 @@ The website is accessible from any mobile device, tablet and desktop.
   * For the intake page my mentor assisted me in what coding to use to centralize the form on the page.
 
 ### Review 
+
+This website has been reviewed by my close network that includes: 
 
 * My Mentor who was assigned to me by Code Institute has given me feedback throughout building the website 
 * My co-students have reviewed the live site and tested accessibility on their devices. 
